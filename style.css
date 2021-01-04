@@ -1,0 +1,19 @@
+body {
+  font-family: "Carme", sans-serif;
+}
+h1 {
+  font-size: 30px;
+}
+.highlight {
+  color: orange;
+}
+.width-customisation {
+  width: 40%;
+  float: left;
+  margin-left: 3%;
+  padding-left: 2%;
+}
+.width-customisation img {
+  width: 70%;
+  padding-left: 15%;
+}
